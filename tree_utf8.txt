@@ -1,0 +1,302 @@
+﻿Folder PATH listing
+Volume serial number is DE0A-4D3C
+C:.
+|   db.sqlite3
+|   manage.py
+|   QuickShop_PPT_Template.md
+|   tree.txt
+|   
++---admin_app
+|   |   admin.py
+|   |   apps.py
+|   |   models.py
+|   |   tests.py
+|   |   urls.py
+|   |   views.py
+|   |   __init__.py
+|   |   
+|   +---migrations
+|   |   |   __init__.py
+|   |   |   
+|   |   \---__pycache__
+|   |           __init__.cpython-312.pyc
+|   |           
+|   \---__pycache__
+|           admin.cpython-312.pyc
+|           apps.cpython-312.pyc
+|           models.cpython-312.pyc
+|           urls.cpython-312.pyc
+|           views.cpython-312.pyc
+|           __init__.cpython-312.pyc
+|           
++---media
+|   \---products
+|           1_d7ebe92d-271b-4782-9d23-fad006aebe0d.jpg
+|           1_d7ebe92d-271b-4782-9d23-fad006aebe0d_0S8CObG.jpg
+|           images.jpg
+|           MP000000028321351_658Wx734H_202509140335491.avif
+|           MP000000028321351_658Wx734H_202509140335491_46nyZQX.avif
+|           OIP.jpg
+|           OIP.webp
+|           OIP_eRcBt5p.webp
+|           OIP_qKPNv30.webp
+|           OIP_QSXIB8X.jpg
+|           Sngxgn-Mens-T-Shirt-for-Men-Short-Sleeves-Men_BQNz9W8.fb23ed817e6c0d2183d2be1107530852.webp
+|           Sngxgn-Mens-T-Shirt-for-Men-Short-Sleeves-Men_vBw15pb.fb23ed817e6c0d2183d2be1107530852.webp
+|           Sngxgn-Mens-T-Shirt-for-Men-Short-Sleeves-Men_zhLI0xa.fb23ed817e6c0d2183d2be1107530852.webp
+|           Women-Designer-Dress.jpg
+|           wp10149162-christian-laptop-wallpapers.jpg
+|           
++---payment
+|   |   admin.py
+|   |   apps.py
+|   |   models.py
+|   |   tests.py
+|   |   urls.py
+|   |   views.py
+|   |   __init__.py
+|   |   
+|   +---migrations
+|   |   |   __init__.py
+|   |   |   
+|   |   \---__pycache__
+|   |           __init__.cpython-312.pyc
+|   |           
+|   \---__pycache__
+|           admin.cpython-312.pyc
+|           apps.cpython-312.pyc
+|           models.cpython-312.pyc
+|           urls.cpython-312.pyc
+|           views.cpython-312.pyc
+|           __init__.cpython-312.pyc
+|           
++---quickshop
+|   |   settings.py
+|   |   urls.py
+|   |   wsgi.py
+|   |   
+|   +---accounts
+|   |   |   models.py
+|   |   |   urls.py
+|   |   |   views.py
+|   |   |   
+|   |   +---migrations
+|   |   |   |   0001_initial.py
+|   |   |   |   0002_rename_mobile_profile_phone_remove_profile_dob_and_more.py
+|   |   |   |   __init__.py
+|   |   |   |   
+|   |   |   \---__pycache__
+|   |   |           0001_initial.cpython-312.pyc
+|   |   |           0002_rename_mobile_profile_phone_remove_profile_dob_and_more.cpython-312.pyc
+|   |   |           __init__.cpython-312.pyc
+|   |   |           
+|   |   \---__pycache__
+|   |           models.cpython-312.pyc
+|   |           urls.cpython-312.pyc
+|   |           views.cpython-312.pyc
+|   |           
+|   +---cart
+|   |   |   models.py
+|   |   |   urls.py
+|   |   |   views.py
+|   |   |   
+|   |   +---migrations
+|   |   |   |   0001_initial.py
+|   |   |   |   __init__.py
+|   |   |   |   
+|   |   |   \---__pycache__
+|   |   |           0001_initial.cpython-312.pyc
+|   |   |           __init__.cpython-312.pyc
+|   |   |           
+|   |   \---__pycache__
+|   |           models.cpython-312.pyc
+|   |           urls.cpython-312.pyc
+|   |           views.cpython-312.pyc
+|   |           
+|   +---orders
+|   |   |   models.py
+|   |   |   urls.py
+|   |   |   views.py
+|   |   |   __init__.py
+|   |   |   
+|   |   +---migrations
+|   |   |   |   0001_initial.py
+|   |   |   |   __init__.py
+|   |   |   |   
+|   |   |   \---__pycache__
+|   |   |           0001_initial.cpython-312.pyc
+|   |   |           __init__.cpython-312.pyc
+|   |   |           
+|   |   \---__pycache__
+|   |           models.cpython-312.pyc
+|   |           urls.cpython-312.pyc
+|   |           views.cpython-312.pyc
+|   |           __init__.cpython-312.pyc
+|   |           
+|   +---products
+|   |   |   models.py
+|   |   |   urls.py
+|   |   |   views.py
+|   |   |   
+|   |   +---migrations
+|   |   |   |   0001_initial.py
+|   |   |   |   0002_alter_product_category_alter_product_quantity_and_more.py
+|   |   |   |   __init__.py
+|   |   |   |   
+|   |   |   \---__pycache__
+|   |   |           0001_initial.cpython-312.pyc
+|   |   |           0002_alter_product_category_alter_product_quantity_and_more.cpython-312.pyc
+|   |   |           __init__.cpython-312.pyc
+|   |   |           
+|   |   \---__pycache__
+|   |           models.cpython-312.pyc
+|   |           urls.cpython-312.pyc
+|   |           views.cpython-312.pyc
+|   |           
+|   +---seller
+|   |   |   urls.py
+|   |   |   views.py
+|   |   |   
+|   |   \---__pycache__
+|   |           urls.cpython-312.pyc
+|   |           views.cpython-312.pyc
+|   |           
+|   \---__pycache__
+|           settings.cpython-312.pyc
+|           urls.cpython-312.pyc
+|           wsgi.cpython-312.pyc
+|           
++---static
+|   \---assets
+|       +---css
+|       |       style-prefix.css
+|       |       style.css
+|       |       
+|       +---images
+|       |   |   banner-1.jpg
+|       |   |   banner-2.jpg
+|       |   |   banner-3.jpg
+|       |   |   blog-1.jpg
+|       |   |   blog-2.jpg
+|       |   |   blog-3.jpg
+|       |   |   blog-4.jpg
+|       |   |   cta-banner.jpg
+|       |   |   electronics-banner-1.jpg
+|       |   |   electronics-banner-2.jpg
+|       |   |   login-banner.jpg
+|       |   |   mens-banner.jpg
+|       |   |   newsletter.png
+|       |   |   payment-qr.png
+|       |   |   payment.png
+|       |   |   testimonial-1.jpg
+|       |   |   womens-banner.jpg
+|       |   |   
+|       |   +---icons
+|       |   |       bag.svg
+|       |   |       coat.svg
+|       |   |       cosmetics.svg
+|       |   |       dress.svg
+|       |   |       glasses.svg
+|       |   |       hat.svg
+|       |   |       jacket.svg
+|       |   |       jewelry.svg
+|       |   |       perfume.svg
+|       |   |       quotes.svg
+|       |   |       shoes.svg
+|       |   |       shorts.svg
+|       |   |       tee.svg
+|       |   |       watch.svg
+|       |   |       
+|       |   +---logo
+|       |   |       favicon.ico
+|       |   |       logo.svg
+|       |   |       
+|       |   \---products
+|       |           1.jpg
+|       |           2.jpg
+|       |           3.jpg
+|       |           4.jpg
+|       |           belt.jpg
+|       |           clothes-1.jpg
+|       |           clothes-2.jpg
+|       |           clothes-3.jpg
+|       |           clothes-4.jpg
+|       |           jacket-1.jpg
+|       |           jacket-2.jpg
+|       |           jacket-3.jpg
+|       |           jacket-4.jpg
+|       |           jacket-5.jpg
+|       |           jacket-6.jpg
+|       |           jewellery-1.jpg
+|       |           jewellery-2.jpg
+|       |           jewellery-3.jpg
+|       |           party-wear-1.jpg
+|       |           party-wear-2.jpg
+|       |           perfume.jpg
+|       |           shampoo.jpg
+|       |           shirt-1.jpg
+|       |           shirt-2.jpg
+|       |           shoe-1.jpg
+|       |           shoe-1_1.jpg
+|       |           shoe-2.jpg
+|       |           shoe-2_1.jpg
+|       |           shoe-3.jpg
+|       |           shoe-4.jpg
+|       |           shoe-5.jpg
+|       |           shorts-1.jpg
+|       |           shorts-2.jpg
+|       |           sports-1.jpg
+|       |           sports-2.jpg
+|       |           sports-3.jpg
+|       |           sports-4.jpg
+|       |           sports-5.jpg
+|       |           sports-6.jpg
+|       |           watch-1.jpg
+|       |           watch-2.jpg
+|       |           watch-3.jpg
+|       |           watch-4.jpg
+|       |           
+|       +---js
+|       |       script.js
+|       |       
+|       \---videos
+|               razorpay-demo.mp4
+|               
+\---templates
+    |   base.html
+    |   
+    +---accounts
+    |       forgot_password.html
+    |       login.html
+    |       profile.html
+    |       register.html
+    |       
+    +---admin_app
+    |       dashboard.html
+    |       
+    +---cart
+    |   |   cart.html
+    |   |   models.py
+    |   |   wishlist.html
+    |   |   
+    |   \---migrations
+    |           __inits__.py
+    |           
+    +---orders
+    |       checkout.html
+    |       my_orders.html
+    |       orders.html
+    |       payment.html
+    |       payment_success.html
+    |       
+    +---payment
+    |       process.html
+    |       success.html
+    |       
+    +---products
+    |       detail.html
+    |       home.html
+    |       
+    \---seller
+            dashboard.html
+            
